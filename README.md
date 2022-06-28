@@ -2,7 +2,7 @@
 
 Oyun mobil platform için geliştirilmiş 2D Hyper Casual bir oyundur. Oyundaki amaç yönetmiş olduğumuz uzay gemisiyle meteorlara çarpmadan yıldızları toplayıp skor kazanmaktır.
 
-➡️Oyuncu uzay gemisini joystick aracılığı ile yönetmektedir.
+➡️Oyuncu uzay gemisini joystick aracılığı ile yönetmektedir./n
 ➡️Düşman olarak belirlenen meteorlar bilgisayar tarafında yönetlilir.
 ➡️Meteorlar yukarıdan aşağıya doğru hareket etmektedir.
 ➡️Oyuncu eğer meteora çarparsa oyun sonlanır.
